@@ -51,6 +51,9 @@ uvicorn main:app --reload
 ```
 Access the API at http://localhost:8000.
 
+4. Enter Authorization code:
+   The code is: 12345
+
 # Testing
 
 Run the provided test case:
