@@ -37,8 +37,12 @@ FedditSentiment/
 
 ```bash
 git clone https://github.com/Roshan835/FedditSentiment.git
+```
+
+```bash
 cd FedditSentiment
 ```
+
 2. Install dependencies:
 
 ``` bash
