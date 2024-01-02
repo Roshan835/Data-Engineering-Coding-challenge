@@ -36,7 +36,7 @@ FedditSentiment/
 1. Clone the repository:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/Roshan835/FedditSentiment.git
 cd FedditSentiment
 ```
 2. Install dependencies:
