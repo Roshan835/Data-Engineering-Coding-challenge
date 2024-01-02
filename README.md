@@ -59,6 +59,7 @@ python -m uvicorn main:app --reload
 ```
 
 Access the API at http://localhost:8000.
+Also make sure that the feddit-api docker is running.
 
 4. Enter Authorization code:
    The code is: 12345
