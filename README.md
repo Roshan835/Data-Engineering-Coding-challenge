@@ -53,6 +53,11 @@ pip install -r requirements.txt
 ```bash
 uvicorn main:app --reload
 ```
+OR
+```bash
+python -m uvicorn main:app --reload
+```
+
 Access the API at http://localhost:8000.
 
 4. Enter Authorization code:
